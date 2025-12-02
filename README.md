@@ -140,7 +140,8 @@ Copyright © 2025. Project untuk simulasi dan analisis sistem cooling tower.
 
 ## 👨‍💻 Author
 
-Cooling Tower Simulation - Multi-Domain Analysis System
+Khusnul Khuluq Ahmada
+2042241001@student.its.ac.id
 
 ---
 
