@@ -2,6 +2,11 @@
 
 Aplikasi simulasi **Cooling Tower** berbasis Windows Forms dengan analisis multi-domain (Time, Frequency, Laplace, Z-Domain) dan visualisasi 3D.
 
+## 👨‍💻 Author
+
+Khusnul Khuluq Ahmada
+2042241001@student.its.ac.id
+
 ## 📋 Fitur Utama
 
 ### 1. **Parameter Input**
@@ -133,15 +138,6 @@ Stability: |z| < 1
 **NuGet restore gagal?**
 - Klik kanan solution → **Restore NuGet Packages**
 - Atau jalankan: `nuget restore CoolingTowerSimulation.sln`
-
-## 📝 License
-
-Copyright © 2025. Project untuk simulasi dan analisis sistem cooling tower.
-
-## 👨‍💻 Author
-
-Khusnul Khuluq Ahmada
-2042241001@student.its.ac.id
 
 ---
 
